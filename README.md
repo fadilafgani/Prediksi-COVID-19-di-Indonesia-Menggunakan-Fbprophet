@@ -1,2 +1,2 @@
 # Prediksi-COVID-19-di-Indonesia-Menggunakan-Fbprophet
-Prediksi kasus COVID di Indonesia menggunakan library FBProphet 
+Prediksi kasus COVID di Indonesia menggunakan library FBProphet. Fbprophet adalah metode runtun waktu yang bersifat open source yang dikembangkan oleh tim Data Science Facebook. Fbprophet meramalkan data deret waktu berdasarkan model aditif. Fbprophet mampu mengatasi data hilang (missing value) dan pergeseran tren, dan biasanya menangani outlier dengan baik.
